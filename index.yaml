@@ -3,12 +3,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.27.0
-    created: "2025-08-29T13:37:54.1601109+03:00"
+    created: "2025-10-07T12:40:48.9883687+03:00"
     description: A Helm chart for deploying Nginx to Kubernetes
-    digest: 01b4a5267260aa274d2c4afd17491e9a5ee461e224df08e8d1c22e9a6acde1c7
+    digest: cc741cc0f1e43c76e2f18c93a52b8375a38207333a4cb2b7c519f7a12b2857ee
     name: nginx
     type: application
     urls:
-    - https://github.com/dragos1993/helm-charts/nginx-0.1.0.tgz
+    - https://dragos1993.github.io/helm-charts/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-29T13:37:54.1595948+03:00"
+generated: "2025-10-07T12:40:48.9872595+03:00"
